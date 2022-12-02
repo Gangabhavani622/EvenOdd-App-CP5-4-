@@ -21,7 +21,7 @@ class EvenOddApp extends Component {
       <div className="container">
         <div>
           <h1 className="count">Count {count}</h1>
-          <h1 className="description">Count is {textCount}</h1>
+          <p className="description">Count is {textCount}</p>
           <button
             className="button"
             type="button"
@@ -29,7 +29,7 @@ class EvenOddApp extends Component {
           >
             Increment
           </button>
-          <p className="para">*Increased By Random Number Between 0 to 100 </p>
+          <p className="para">Increased By Random Number Between 0 to 100 </p>
         </div>
       </div>
     )
