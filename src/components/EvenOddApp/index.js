@@ -29,7 +29,7 @@ class EvenOddApp extends Component {
           >
             Increment
           </button>
-          <p className="para">Increased By Random Number Between 0 to 100 </p>
+          <p className="para">Increase By Random Number Between 0 to 100 </p>
         </div>
       </div>
     )
